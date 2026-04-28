@@ -24,5 +24,5 @@ A continuación se detalla la estructura principal del proyecto y el contenido d
 - **`challenge/`**: Incluye los retos y próximos pasos a desarrollar en el proyecto.
 - **`docs/`**: Carpeta de documentación. Dentro se encuentra el directorio **`docs/web/`**, que contiene las páginas y recursos a los que accede **`index.html`**.
 - **`how_to_do_it/`**: Contiene guías paso a paso sobre el desarrollo del proyecto.
-- **`index.html`**: Es la página web principal de presentación del repositorio. Sirve como punto de entrada visual para entender el proyecto. [https://a-nit-a.github.io/AI_Triage/](https://a-nit-a.github.io/IES_Teis_AI_Triage/).
+- **`index.html`**: Es la página web principal de presentación del repositorio. Sirve como punto de entrada visual para entender el proyecto. [https://a-nit-a.github.io/IES_TeisAI_Triage/](https://a-nit-a.github.io/IES_Teis_AI_Triage/).
 - **`main.py`**: Script principal que orquesta la ejecución del proyecto, inicializando la base de datos vectorial si es necesario y lanzando el agente.
